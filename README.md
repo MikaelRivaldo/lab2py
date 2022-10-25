@@ -44,7 +44,7 @@
 
 Syntax Dasar Python
 
-Case Sensitive
+- Case Sensitive
 
 - Sintak Python bersifat case sensitive, artinya huruf besar dengna huruf kecil dibedakan
 
