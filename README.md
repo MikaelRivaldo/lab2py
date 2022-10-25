@@ -6,6 +6,6 @@
 
 2.Klik menu download lalu pilih sesuai versi device kalian, di sini saya mendownload windows64bit.exe
 
-!{}(Gambar/bahan%205%20python.png)
+![](Gambar/bahan%205%20python.png)
 
 3.Setelah download, install python. klik install now & jangan lupa centang add python.exe to PATH
