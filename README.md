@@ -6,22 +6,24 @@
 
 2.Klik menu download lalu pilih sesuai versi device kalian, di sini saya mendownload windows64bit.exe
 
-![](Gambar/bahan%205%python.png)
+![](Gambar/bahan%205%20python.png)
 
 3.Setelah download, install python. klik install now & jangan lupa centang add python.exe to PATH
 
-![](Gambar/bahan%203%ptyhon.jpeg)
+![](Gambar/bahan%203%20ptyhon.jpeg)
 
 4.Langkah berikut nya cek apakah python sudah terinstall/belum di device kita, cara nya buka CMD
 
-![](Gambar/bahan%201%ptython.png)
+![](Gambar/bahan%201%20ptython.png)
 
 5.Sebelum nya bagi yang belum menginstal VScode bisa insstal di https://code.visualstudio.com
 
 6.Setelah menginstall VScode, langsung ke menu extension/ctrl+shift+X, search python yang sudah centang biru lalu klik instal
 
-![](Gambar/gambar%206%python.png)
+![](Gambar/gambar%206%20python.png)
 
 7.Sesudah menginstall extension, python siap digunakan. Untuk menjalankan program klik run/tombol play di pojok kiri
+
+![](Gambar/bahan%204%20python.png)
 
 
