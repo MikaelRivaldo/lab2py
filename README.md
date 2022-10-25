@@ -12,6 +12,12 @@
 
 ![](Gambar/bahan%203%20ptyhon.jpeg)
 
-4.Langkah berikut nya cek apakah python sudah terinstall/belum di device kita, cara ny buka CMD
+4.Langkah berikut nya cek apakah python sudah terinstall/belum di device kita, cara nya buka CMD
 
 ![](Gambar/bahan%201%20ptython.png)
+
+5.Sebelum nya bagi yang belum menginstal VScode bisa insstal di https://code.visualstudio.com
+
+6.Setelah menginstall VScode, langsung ke menu extension/ctrl+shift+X, search python yang sudah centang biru lalu klik instal
+
+![](Gambar/gambar%206%20python.png)
