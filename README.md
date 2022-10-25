@@ -9,3 +9,9 @@
 ![](Gambar/bahan%205%20python.png)
 
 3.Setelah download, install python. klik install now & jangan lupa centang add python.exe to PATH
+
+![](Gambar/bahan%203%20ptyhon.jpeg)
+
+4.Langkah berikut nya cek apakah python sudah terinstall/belum di device kita, cara ny buka CMD
+
+![](Gambar/bahan%201%20ptython.png)
